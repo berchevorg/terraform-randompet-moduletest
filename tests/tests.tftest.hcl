@@ -36,3 +36,5 @@ run "random_pet_name3_validation" {
     error_message = "Separator of name3 should be '-'"
   }
 }
+
+These tests check that the length of each random pet name is 1 and that the separator is a hyphen.
